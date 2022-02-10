@@ -1,2 +1,2 @@
 # Quizzes
-Combining few CSV files with grades and analysis them using Pandas
+Combining few CSV files which contain grades and analysing them using Pandas.
